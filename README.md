@@ -1,6 +1,6 @@
-# Arabic Handwriting Recognition - My Graduation Project 🎓
+# Arabic Handwriting Recognition
 
-I built this OCR system to recognize handwritten Arabic text using deep learning. The system takes images of Arabic handwriting, fixes distortions, detects text lines, segments words, then uses a ResNet50V2 model with Bi-LSTM networks to recognize the text. Trained on 100,000+ samples, achieving 97% accuracy.
+I built this OCR system to recognize handwritten Arabic text using deep learning. The system takes images of Arabic handwriting, fixes distortions, detects text lines, segments words, then uses a ResNet50V2 model with Bi-LSTM networks to recognize the text achieving 97% accuracy.
 
 
 ## Screenshots
